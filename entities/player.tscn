@@ -118,3 +118,5 @@ animation = &"jump"
 autoplay = "idle"
 frame = 1
 frame_progress = 0.6065162
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=700359737]
