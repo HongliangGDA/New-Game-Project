@@ -1,4 +1,4 @@
-[gd_scene format=3 uid="uid://cdf5lrcdg160b"]
+[gd_scene format=3 uid="uid://dla7bp5w07p14"]
 
 [ext_resource type="Script" uid="uid://c3ubxpp10k6x6" path="res://scripts/player.gd" id="1_merdl"]
 [ext_resource type="Texture2D" uid="uid://cafjqjbopljw" path="res://sprites/3 - Big Red/Idle_(32 x 32).png" id="2_b0kkn"]
@@ -68,4 +68,4 @@ shape = SubResource("CapsuleShape2D_u3f3p")
 sprite_frames = SubResource("SpriteFrames_ef06p")
 animation = &"idle"
 autoplay = "idle"
-frame_progress = 0.61592644
+frame_progress = 0.18614052
