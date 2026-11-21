@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://dla7bp5w07p14"]
 
-[ext_resource type="Script" uid="uid://c3ubxpp10k6x6" path="res://scripts/player.gd" id="1_merdl"]
+[ext_resource type="Script" uid="uid://c3ubxpp10k6x6" path="res://player.gd" id="1_merdl"]
 [ext_resource type="Texture2D" uid="uid://cafjqjbopljw" path="res://sprites/3 - Big Red/Idle_(32 x 32).png" id="2_b0kkn"]
 [ext_resource type="Texture2D" uid="uid://bkysq7j7buibv" path="res://sprites/3 - Big Red/Running_(32 x 32).png" id="3_e4p34"]
 [ext_resource type="Texture2D" uid="uid://xllvolqt5dk8" path="res://sprites/3 - Big Red/Jumping_&_Falling_(32 x 32).png" id="3_rfe5m"]
@@ -120,3 +120,7 @@ frame = 1
 frame_progress = 0.6065162
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=700359737]
+limit_left = 0
+limit_top = 0
+limit_right = 447
+limit_bottom = 200
